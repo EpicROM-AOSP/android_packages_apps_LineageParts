@@ -107,7 +107,7 @@
             </intent-filter>
         </activity-alias>
 
-        <!-- Button settings (System category)
+        <!-- Button settings (System category) -->
         <activity-alias
             android:name=".input.ButtonSettings"
             android:exported="true"
@@ -139,7 +139,7 @@
                 android:resource="@string/summary_empty" />
         </activity-alias>
 
-        <activity android:name=".gestures.KeyHandler" /> -->
+        <activity android:name=".gestures.KeyHandler" />
 
         <!-- Profiles settings (System category) -->
         <activity-alias
